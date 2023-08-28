@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("¿Todo bien?");
+MiMetodo();
+
+void MiMetodo()
+{
+    Console.WriteLine("¿Es un méwtodo?");
+}
